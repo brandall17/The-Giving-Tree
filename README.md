@@ -16,10 +16,10 @@
 <em>Time to learn a little bit about our program</em> . . . .<br />
 <br />
 <br />
-<img alt=![image](https://user-images.githubusercontent.com/116672082/197856530-46ab465e-a545-4a0a-a0d9-83f4b3895526.png) /><br />
+<img src= https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbsnews.com%2Fessentials%2F2022-holiday-gift-guide-the-best-deals-under-100-to-shop-this-christmas-and-hanukkah%2F&psig=AOvVaw3BoEnYOk4W7KlAKGKpEMX3&ust=1666809881390000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCc7-mE_PoCFQAAAAAdAAAAABAD/><br />
 <br />
 <br />
-The Giving Tree is a service event that the Catholic Parish of Saint Pius X Church in Granger, Indiana hosts every year. The event is put on for children whos parents can't afford to buy them Christmas gifts. In light of the holidays, parishioners are asked to volunteer and sign up to help our service make Christmas a beautiful time for the children. <a href="https://designlab.wisc.edu/">the DesignLab website </a>if you haven&#39;t already, and don&#39;t forget to consider declaring the <a href="https://digitalstudies.wisc.edu/">Digital Studies Undergraduate Certificate</a> if you like digital things!</span></span><br />
+The Giving Tree is a service event that the Catholic Parish of Saint Pius X Church in Granger, Indiana hosts every year. The event is put on for children whos parents can't afford to buy them Christmas gifts. In light of the holidays, parishioners are asked to volunteer and sign up to help our service make Christmas a beautiful time for the children. Check out <a href="https://designlab.wisc.edu/">the DesignLab website </a>if you haven&#39;t already, and don&#39;t forget to consider declaring the <a href="https://digitalstudies.wisc.edu/">Digital Studies Undergraduate Certificate</a> if you like digital things!</span></span><br />
 <br />
 <br />
 <!--[endif]--><o:p></o:p></p>
