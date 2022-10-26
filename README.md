@@ -1,5 +1,5 @@
 <! DOCTYPE html>
-# The-Giving-Tree
+# The Giving Tree
 <html>
 <head>
 <title>The Giving Tree</title>
