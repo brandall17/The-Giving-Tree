@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>The Giving Tree</title>
+<link href="StyleSheet.css" rel="stylesheet"> 
 </head>
 <body>
 <p></p>
