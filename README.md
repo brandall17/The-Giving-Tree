@@ -1,8 +1,8 @@
 <! DOCTYPE html>
-# The-Giving-Tree
+# The Giving Tree
 <html>
 <head>
-<title>The Giving Tree</title>
+<title>The Giving Tree Deliveries and Signups!</title>
 </head>
 <body>
 <p></p>
