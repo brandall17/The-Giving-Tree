@@ -2,7 +2,7 @@
 # The Giving Tree
 <html>
 <head>
-<title> The Giving Tree </title>
+  <title>The Giving Tree</title>
 <link href="StyleSheet.css" rel="stylesheet"> 
 </head>
 <body>
