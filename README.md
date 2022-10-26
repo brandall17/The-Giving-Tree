@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<!DOCTYPE html>
 # About the Giving Tree
 <html>
 <head>
