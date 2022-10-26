@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<! doctype html>
 # The Giving Tree Signups
 <html>
 <head>
