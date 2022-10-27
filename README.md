@@ -16,7 +16,7 @@
 <br />
   <body style="background-color:powderblue;">
 
-<h1>The Giving Tree deliveries are done through a sign up. Upfront donations are welcome along with proceeds towards:</h1>
+<h2>The Giving Tree deliveries are done through a sign up. Upfront donations are welcome along with proceeds towards:</h2>
 <p>  
  <ol>
   <li>gifts for children</li>
