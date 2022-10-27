@@ -16,20 +16,20 @@
 <br />
   <body style="background-color:powderblue;">
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>The Giving Tree deliveries are done through a sign up. Upfront donations are welcome along with proceeds towards:</h1>
+<p>  
+ <ol>
+  <li>gifts for children</li>
+  <li>food baskets (including hams and packaged goods</li>
+  <li>blankets</li>
+ </ol>
+</p>
 <em>Time to learn a little bit about our program</em> . . . .<br />
 <br />
 <br />
 <img src= https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbsnews.com%2Fessentials%2F2022-holiday-gift-guide-the-best-deals-under-100-to-shop-this-christmas-and-hanukkah%2F&psig=AOvVaw3BoEnYOk4W7KlAKGKpEMX3&ust=1666809881390000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCc7-mE_PoCFQAAAAAdAAAAABAD/><br />
 <br />
 <br />
-The Giving Tree deliveries are done through a sign up. Upfront donations are welcome along with proceeds towards:
-  <ol>
-  <li>gifts for children</li>
-  <li>food baskets (including hams and packaged goods</li>
-  <li>blankets</li>
-</ol>
 </span></span><br />
 <br />
 <br />
