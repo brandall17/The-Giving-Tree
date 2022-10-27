@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 # The Giving Tree Signups
-<html>
- <!DOCTYPE html>
-<html>
-<body style="background-color:powderblue;">
-</body>
-</html>
- 
+<html> 
 <head>
 <title>The Giving Tree Deliveries and Donations!</title>
 </head>
