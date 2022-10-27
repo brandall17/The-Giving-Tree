@@ -10,9 +10,6 @@
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="New!" id="_x0000_i1025" src="new5.gif" /></span></span><strong><span style="font-size:36px;"><span style="font-family:courier new,courier,monospace;"></span></span></strong></p>
 
 <p style="text-align: center;"></p>
-
-<br />
-<em>Why the giving tree?</em> <br />
 <br />
   <h2>The Giving Tree originated nine years ago at the Saint Pius X Catholic Church:</h2>
   <h3>Contact Priest Bill Schoolar, Head of the Parish Tara Schmitt, and Volunteer Becky Kintzele with questions!</h3>
