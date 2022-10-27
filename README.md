@@ -19,7 +19,7 @@
 
 <h2>The Giving Tree deliveries are done through a sign up. Upfront donations are welcome along with proceeds towards:</h2>
 <p>  
- <ol>
+ <ol> <style="font-size:600%;">
   <li>Gifts for children</li>
   <li>Food baskets (if you need ideas for the basket, visit <a href="https://pocketsense.com/items-put-food-baskets-needy-8085.html">here</a>)</li>
   <li>Blankets</li>
