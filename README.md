@@ -12,7 +12,7 @@
 <p style="text-align: center;"></p>
 
 <blockquote>
-<p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;">Welcome to the Giving Tree for <strong>Saint Pius X Catholic School</strong>!</span><br />
+<br />
 <br />
   <body style="background-color:powderblue;">
 
