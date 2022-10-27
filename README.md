@@ -13,8 +13,6 @@
   <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/deliver/README.md">Sign Up Here</a> |
 </nav>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="New!" id="_x0000_i1025" src="new5.gif" /></span></span><strong><span style="font-size:36px;"><span style="font-family:courier new,courier,monospace;"></span></span></strong></p>
-<h1 style="text-align:center;">Centered Heading</h1>
-<p style="text-align:center;">Centered paragraph.</p>
 <p style="text-align: center;"></p>
 <blockquote>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;">Welcome to the Giving Tree for <strong>Saint Pius X Catholic School</strong>!</span><br />
