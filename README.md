@@ -16,7 +16,7 @@
 <p style="text-align: center;"></p>
 <br />
   <h2>The Giving Tree originated nine years ago at the Saint Pius X Catholic Church:</h2>
-  <h3>Contact Priest Bill Schoolar, Head of the Parish Tara Schmitt, and Volunteer Becky Kintzele with questions!</h3>
+  <h3>style="font-size:300%;"> Contact Priest Bill Schoolar, Head of the Parish Tara Schmitt, and Volunteer Becky Kintzele with questions!</h3>
 <br />
    <ol>
   <li>Priest Bill Schoolar: bschoolar@saintpius.net</li>
