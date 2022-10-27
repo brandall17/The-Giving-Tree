@@ -14,6 +14,10 @@
 <blockquote>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;">Welcome to the Giving Tree for <strong>Saint Pius X Catholic School</strong>!</span><br />
 <br />
+  <body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 <em>Time to learn a little bit about our program</em> . . . .<br />
 <br />
 <br />
