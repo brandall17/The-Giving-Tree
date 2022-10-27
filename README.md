@@ -25,7 +25,7 @@
   <li>Blankets</li>
  </ol>
 </p>
-<em>Come back later to sign up for more!</em> <br />
+<em>Come back later to sign up!</em> <br />
 <br />
 <br />
 <br />
