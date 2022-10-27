@@ -15,8 +15,6 @@
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="New!" id="_x0000_i1025" src="new5.gif" /></span></span><strong><span style="font-size:36px;"><span style="font-family:courier new,courier,monospace;"></span></span></strong></p>
 
 <p style="text-align: center;"></p>
-<h1 style="font-family:verdana;">This is a heading</h1>
-<p style="font-family:courier;">This is a paragraph.</p>
 <blockquote>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;">Welcome to the Giving Tree for <strong>Saint Pius X Catholic School</strong>!</span><br />
 <br />
