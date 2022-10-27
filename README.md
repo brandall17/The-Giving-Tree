@@ -21,7 +21,7 @@
 <p>  
  <ol>
   <li>gifts for children</li>
-  <li>food baskets (including hams and packaged goods</li>
+  <li>food baskets (if you need ideas for the basket, visit <p><a href="https://pocketsense.com/items-put-food-baskets-needy-8085.html">this site</a></p></li>
   <li>blankets</li>
  </ol>
 </p>
