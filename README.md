@@ -2,7 +2,6 @@
 # The Giving Tree
 <html>
 <head>
-  <h1 style="color:red;">The Giving Tree</h1>
   <title>The Giving Tree</title>
 <link href="StyleSheet.css" rel="stylesheet"> 
 </head>
