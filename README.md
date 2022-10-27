@@ -23,9 +23,9 @@
 <br />
 <br />
    <ol>
-  <li>Preist Bill Schoolar:</li>
-  <li>Tara Schmitt:</li>
-  <li>Becky Kintzele:</li>
+  <li>Preist Bill Schoolar: bschoolar@saintpius.net</li>
+  <li>Tara Schmitt:tschmitt@yahoo.com</li>
+  <li>Becky Kintzele: rkintzele@gmail.com</li>
   </ol>
   </span></span><br />
   <br />
