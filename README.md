@@ -25,7 +25,7 @@
   <li>blankets</li>
  </ol>
 </p>
-<em>Circle back later to sign up for more!</em> <br />
+<em>Come back later to sign up for more!</em> <br />
 <br />
 <br />
 <br />
