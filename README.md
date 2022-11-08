@@ -8,9 +8,9 @@
 <body>
 <p></p>
  <nav>
-  <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/main/README.md">The Giving Tree</a> |
-  <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/About/README.md">About Us</a> |
-  <a href="https://github.com/alexiskintzele/The-Giving-Tree/blob/deliver/README.md">Sign Up Here</a> |
+  <a href="Giving Tree Main.html">The Giving Tree</a> |
+  <a href="Giving Tree About.html">About Us</a> |
+  <a href="Giving Tree Deliver.html">Sign Up Here</a> |
 </nav>
 <p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="New!" id="_x0000_i1025" src="new5.gif" /></span></span><strong><span style="font-size:36px;"><span style="font-family:courier new,courier,monospace;"></span></span></strong></p>
 <p style="text-align: center;"></p>
